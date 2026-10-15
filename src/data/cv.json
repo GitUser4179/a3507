@@ -1,0 +1,21 @@
+{
+  "education": [
+    {
+      "id": "chasacademy",
+      "title": "Chasacademy .NET Fullstack Development Program",
+      "description": "Currently on-going studies focoused on backend architecture, API development, database design and modern web technologies."
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "freelancing",
+      "title": "Freelancing IT & Hardware Expert",
+      "description": "Provided on-site technical support to clients, including building custom computers, troubleshooting hardware issues, installing or upgraindg components. Gained practical experience in computer assembly, diagnostics and problem-solving for various hardware setups."
+    },
+    {
+      "id": "roblox",
+      "title": "Game development within ROBLOX Lua",
+      "description": "Created games within the ROBLOX engine that amassed more than 20 million total game visitors. Multiples of games that were all created from scratch and utilizing the ROBLOX Studio engine to both create the 3D environment and program the games."
+    }
+  ]
+}
